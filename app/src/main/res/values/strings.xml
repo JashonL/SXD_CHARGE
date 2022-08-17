@@ -15,10 +15,11 @@
     <string name="m4_login">Login</string>
     <string name="m5_experience_hall">Experience Hall</string>
     <string name="m6_register">Register</string>
-    <string name="m7_add_camera">ADD CAMERA</string>
-    <string name="m8_find_imei">To find your IMEl number for your camera, first switch the camera into TEST and wait for IMEl to display.</string>
-    <string name="m9_imei_num">IMEI Number</string>
-    <string name="m10_complete">COMPLETE</string>
+    <string name="m7_username">Username</string>
+    <string name="m8_mailbox">Mailbox</string>
+    <string name="m9_phone">Phone</string>
+    <string name="m10_accept_policy">Accept terms and data privacy policy</string>
+
 
 
 
