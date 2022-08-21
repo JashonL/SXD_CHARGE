@@ -17,4 +17,4 @@ rootProject.name = "SXD_CHARGE"
 include ':app'
 
 
-
+include ':lib'
