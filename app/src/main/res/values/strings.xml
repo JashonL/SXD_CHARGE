@@ -19,9 +19,14 @@
     <string name="m8_mailbox">Mailbox</string>
     <string name="m9_phone">Phone</string>
     <string name="m10_accept_policy">Accept terms and data privacy policy</string>
+
     <string name="m11_charge_id">Charge ID:</string>
-
-
-
+    <string name="m12_loading">加载中...</string>
+    <string name="m13_loading_error_please_click_retry">加载失败,请点击重试</string>
+    <string name="m14_all_page_loading_finish">已全部加载完成</string>
+    <string name="m15_please_select">请选择</string>
+    <string name="m16_cancel">取消</string>
+    <string name="m17_select_unit">选择单位</string>
+    <string name="m18_confirm">确定</string>
 
 </resources>

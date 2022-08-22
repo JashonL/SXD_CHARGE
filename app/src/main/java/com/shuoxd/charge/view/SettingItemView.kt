@@ -1,4 +1,4 @@
-package com.shuoxd.charge.ui.view
+package com.shuoxd.charge.view
 
 import android.content.Context
 import android.graphics.drawable.Drawable

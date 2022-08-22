@@ -88,46 +88,46 @@
                 android:orientation="vertical"
                 android:showDividers="middle">
 
-                <com.shuoxd.charge.ui.view.SettingItemView
+                <com.shuoxd.charge.view.SettingItemView
                     android:id="@+id/item_user_name"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     app:showRightIcon="false"
                     app:showSubName="true" />
 
-                <com.shuoxd.charge.ui.view.SettingItemView
+                <com.shuoxd.charge.view.SettingItemView
                     android:id="@+id/item_language"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
                     app:showSubName="true" />
 
-                <com.shuoxd.charge.ui.view.SettingItemView
+                <com.shuoxd.charge.view.SettingItemView
                     android:id="@+id/item_modify_password"
                     android:layout_width="match_parent"
                     android:layout_height="50dp" />
 
-                <com.shuoxd.charge.ui.view.SettingItemView
+                <com.shuoxd.charge.view.SettingItemView
                     android:id="@+id/item_phone"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
 
                     app:showSubName="true" />
 
-                <com.shuoxd.charge.ui.view.SettingItemView
+                <com.shuoxd.charge.view.SettingItemView
                     android:id="@+id/item_email"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
 
                     app:showSubName="true" />
 
-                <com.shuoxd.charge.ui.view.SettingItemView
+                <com.shuoxd.charge.view.SettingItemView
                     android:id="@+id/item_installer_no"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
 
                     app:showSubName="true" />
 
-                <com.shuoxd.charge.ui.view.SettingItemView
+                <com.shuoxd.charge.view.SettingItemView
                     android:id="@+id/item_cancel_account"
                     android:layout_width="match_parent"
                     android:layout_height="50dp"

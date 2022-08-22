@@ -3,29 +3,43 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/drawable/default_dialog_background.xml" value="0.2975" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/drawable/line_divider.xml" value="0.2975" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/drawable/selector_button_rect.xml" value="0.2985" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_charge.xml" value="0.35280797101449274" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_eco.xml" value="0.35507246376811596" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_eco_add.xml" value="0.35507246376811596" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_forgot_pwd.xml" value="0.33" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_help_support.xml" value="0.3509963768115942" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_offpeak_charging.xml" value="0.35688405797101447" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_other.xml" value="0.3509963768115942" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_register.xml" value="0.358695652173913" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_scheduled_charging.xml" value="0.3491847826086957" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_setting.xml" value="0.3509963768115942" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_soc.xml" value="0.4263990267639903" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_soc_setting.xml" value="0.35507246376811596" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_splash.xml" value="0.358695652173913" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/activity_user.xml" value="0.3509963768115942" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/add_your_charge.xml" value="0.3509963768115942" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/auth_other_users.xml" value="0.3509963768115942" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/charging_item.xml" value="0.35507246376811596" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/default_activity_error_page.xml" value="0.35688405797101447" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/dialog_alert.xml" value="0.35688405797101447" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/dialog_options.xml" value="0.3491847826086957" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/dialog_picker.xml" value="0.35688405797101447" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/guide_page.xml" value="0.358695652173913" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/item_loading_end_view_holder.xml" value="0.35688405797101447" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/item_loading_error_view_holder.xml" value="0.35688405797101447" />
+        <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/item_loading_view_holder.xml" value="0.35688405797101447" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/personal_info.xml" value="0.3509963768115942" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/setting_item_view.xml" value="0.358695652173913" />
         <entry key="..\:/WorkPlace/SXD_CHARGE/app/src/main/res/layout/toolbar.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

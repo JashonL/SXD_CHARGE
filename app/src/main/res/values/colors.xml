@@ -91,6 +91,6 @@
     <color name="color_btn_start">#1AC6BA</color>
     <color name="color_btn_end">#59C657</color>
 
-
+    <color name="color_default_background">#F6F6F6</color>
 
 </resources>

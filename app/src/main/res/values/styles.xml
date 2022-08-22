@@ -78,11 +78,7 @@
 
 
 
-    <!--poput动画-->
-    <style name="Popup_Anim" parent="@android:style/Animation">
-        <item name="android:windowEnterAnimation">@anim/popup_in</item>
-        <item name="android:windowExitAnimation">@anim/popup_out</item>
-    </style>
+
 
 
     <style name="MyRadioButton" parent="Theme.AppCompat.Light">

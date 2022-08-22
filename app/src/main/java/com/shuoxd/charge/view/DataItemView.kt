@@ -1,13 +1,11 @@
-package com.shuoxd.charge.ui.view
+package com.shuoxd.charge.view
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.LinearLayout
 import com.shuoxd.charge.R
-import com.shuoxd.charge.databinding.AddYourChargeBinding
 import com.shuoxd.charge.databinding.ChargingItemBinding
-import com.shuoxd.charge.databinding.SettingItemViewBinding
 
 class DataItemView @JvmOverloads constructor(
     context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0
